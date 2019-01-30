@@ -4,7 +4,7 @@
 
 ## 行业 / 用途
 
-### 电子商务
+### [电子商务](docs/E-commerce)
 
 #### [网上购物](docs/E-commerce/Online_shopping)
 
@@ -16,7 +16,7 @@
 
 
 
-## 语言 / 运行环境
+## [语言](docs/Computer_language) / 运行环境
 
 ### [PHP](docs/Computer_language/Programming_language/PHP)
 
