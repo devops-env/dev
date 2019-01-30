@@ -1,5 +1,7 @@
 # dev
 
+
+
 ## 行业 / 用途
 
 ### 电子商务
@@ -12,6 +14,8 @@
 
 #### [比价](docs/E-commerce/Comparison_shopping_website)
 
+
+
 ## 语言 / 运行环境
 
 ### [PHP](docs/Computer_language/Programming_language/PHP)
@@ -20,13 +24,18 @@
 
 #### 函数
 
-## 云服务
 
-### Microsoft Azure
+
+## 云计算
+
+### [Microsoft Azure](docs/Cloud_computing/Platform_as_a_service/Microsoft_Azure)
 
 https://azure.microsoft.com/zh-cn/free/
 
+
+
 #### 介绍
+
 开发起步
 
 #### 软件架构
