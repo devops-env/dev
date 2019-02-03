@@ -34,6 +34,11 @@ https://azure.microsoft.com/zh-cn/free/
 
 
 
+## 文档 / 标准
+
+https://en.wikipedia.org/wiki/Software_design_description
+
+
 #### 介绍
 
 开发起步
